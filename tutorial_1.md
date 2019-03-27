@@ -5,16 +5,16 @@ To clone this repository, perform the following steps:
 
 3. Configure your github settings. This can be done by editing the `user.name` and `user.email` directly, or editing the entire config file at once. Both ways are given below.
 
-  a. 
-  `git config --global user.name 'Github_Name'`
-  `git config --global user.email 'Github_email@email.com'`
-  
-  b. `git config --global --edit` 
-    Then, either edit the name and email fields for the `[user]` or add them like this: 
-      `[user]
-          name = Github_Name
-       [user]
-          email = Github_email@email.com`
+    a. 
+    `git config --global user.name 'Github_Name'`
+    `git config --global user.email 'Github_email@email.com'`
+
+    b. `git config --global --edit` 
+      Then, either edit the name and email fields for the `[user]` or add them like this: 
+        `[user]
+            name = Github_Name
+         [user]
+            email = Github_email@email.com`
           
 4. Move into the folder you want to clone the repository into. `cd` is the command for change director. Please see the Basic Linux commands for a description of how to use `cd`.
 
