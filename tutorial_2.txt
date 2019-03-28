@@ -1,0 +1,10 @@
+This tutorial utilizes practice_file_t2.txt
+
+You should already know how to: clone a repository on Github. 
+In this tutorial, you will learn how to create a branch, change branches, edit text files, and commit changes.
+
+1. Open your terminal. Cd into this Github-Tutorials directory. 
+
+2. Check the status of the repository by typing the command: 'git status'.  
+
+3. If it is not up to date, then  
