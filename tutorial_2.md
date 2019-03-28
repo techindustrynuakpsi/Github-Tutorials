@@ -12,9 +12,11 @@ In this tutorial, you will learn how to create a branch, change branches, edit t
 4. Create a branch by typing 'git branch name_of_branch'. 'name_of_branch' can typically be anything, but for this test, we want it to be your Github username to ensure that two people don't try to commit the same branch name.
 
 5. Type 'git branch' to see which branch you are on. You should still be on the 'master' branch. It indicates the branch you are on by putting an * next to the branch you are on. An example is shown below where you would be on master branch:
-   ```* master
+  ``` 
+      * master
         New_branch_2
-        new_branch_1 ```
+        new_branch_1 
+  ```
 
 
 
