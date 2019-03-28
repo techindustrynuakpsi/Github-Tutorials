@@ -40,4 +40,4 @@ To add any changes you make to the Github repository, you have to do three steps
 
 13. After you have committed the message you can push the message to Github. Type the command `git push`. If it doesn't know the upstream path for the branch, it will tell you. Just type `git push --set-upstream origin name_of_branch`. This will push your commit and set the upstream for your branch. If you used an SSH key to clone the repository, you will need to type in your password, but you can change your termnial settings so it saves your password for you. If you use HTTPS to clone the repository, you will need to type your Github username and password to establish the commit. Make sure your `git config --global user.name` and `git config --global user.email` correspond with your Github account.
 
-14
+14. Good job! You completed the second tutorial. Now, if you go to the Github repository, click on branches, click on the name of your branch, and click on the file practice_file_t2.txt, you should see the changes you made to the file.
