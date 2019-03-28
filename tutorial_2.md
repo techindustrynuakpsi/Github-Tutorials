@@ -12,9 +12,9 @@ In this tutorial, you will learn how to create a branch, change branches, edit t
 4. Create a branch by typing 'git branch name_of_branch'. 'name_of_branch' can typically be anything, but for this test, we want it to be your Github username to ensure that two people don't try to commit the same branch name.
 
 5. Type 'git branch' to see which branch you are on. You should still be on the 'master' branch. It indicates the branch you are on by putting an * next to the branch you are on. An example is shown below where you would be on master branch:
-      * master
+   ```* master
         New_branch_2
-        new_branch_1
+        new_branch_1 ```
 
 
 
@@ -22,7 +22,10 @@ In this tutorial, you will learn how to create a branch, change branches, edit t
 
 7. Check that you are on the right branch by typing 'git branch'
 
-8. Now that you are on the branch you just made, open the file practice_file_t2.txt. You can use any text editing software you want. Underneath 'Hello World!' Type what your favorite food is. Then save the document.
+8. Push the branch to the origin. This is done to make sure your branch is now saved in the Github repository. To push the branch to the origin, type `git push origin name_of_branch` when you are in the branch `name_of_branch` that you just created.
 
-9. Now, you have saved your document on your local branch, but if you notice, your branch and your changes to practice_file_t2.txt don't appear on the Github repository.
+
+9. Now that you are on the branch you just made, open the file practice_file_t2.txt. You can use any text editing software you want. Underneath 'Hello World!' Type what your favorite food is. Then save the document.
+
+10. Now, you have saved your document on your local branch, but if you notice, your branch and your changes to practice_file_t2.txt don't appear on the Github repository.
 
