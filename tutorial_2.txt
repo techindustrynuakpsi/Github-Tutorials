@@ -9,4 +9,6 @@ In this tutorial, you will learn how to create a branch, change branches, edit t
 
 3. Check the status of the repository by typing the command: 'git pull'. This will check to see if any files have been added to the repository and add them to your repository. It also will add any changes people have made to the files.
 
-4. Make a branch by typing branch 
+4. Make a branch by typing 'branch name_of_branch'. 'name_of_branch' can typically be anything, but for this test, we want it to be your Github username to ensure that two people don't try to commit the same branch name.
+
+
