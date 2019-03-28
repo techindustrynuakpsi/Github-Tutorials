@@ -34,5 +34,6 @@ In this tutorial, you will learn how to create a branch, change branches, edit t
 ## Part 2: Adding, Committing, and Pushing Files
 To add any changes you make to the Github repository, you have to do three steps: add the document to the next commit. Commit the document(s) that you have changed or created. Then push the commit to the repository.
 
-11. To add documents, type `git add practice_file_t2.txt`. To add documents in general, you can do one of a few different things. You can type `git add name_of_document1 name_of_document2 etc`. `etc` can be an entire folder name, or more document names. You can add one or more documents as long as you add spaces in between. If you want to add all documents that you have changed to the commit, type `git add -all`. 
+11. To add documents, type `git add practice_file_t2.txt`. In general, to add documents to the commit, you can do two different things. You can type `git add name_of_document1 name_of_document2 etc`. `etc` can be an entire folder name, or more document names. You can add one or more documents as long as you add spaces in between. If you want to add all documents that you have changed to the commit, type `git add -all`. 
 
+12. After you add the documents to the commit, you want to commit them with a message so that you know what you changed in that commit.
