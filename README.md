@@ -4,4 +4,5 @@ This is a Github Repository for AKPsi Tech Industry Tutorials. This includes tut
 
 
 ## Click on the tutorial_1.md file to learn how to clone a repository.
-
+## Click on the tutorial_2.md file to practice making branches, adding changes to a file, and pushing those files to the repository
+## Click on the additional_resources.md file to see additional Github webpages that may be useful.
